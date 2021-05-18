@@ -6,7 +6,7 @@ TruckDevil is an interface for interacting with Trucks that use J1939 for commun
 
 ### Hardware:
 
-The CAN transciever in use is the Macchina M2 ([Under-the-Dash](https://www.macchina.cc/catalog/m2-boards/m2-under-dash)).
+The CAN transceiver in use is the Macchina M2 ([Under-the-Dash](https://www.macchina.cc/catalog/m2-boards/m2-under-dash)).
 
 A USB-A to Micro B Cable will be required to connect to the M2 with a laptop.
 
